@@ -1,2 +1,2 @@
 # Hello-JScript
-just testing
+//just testing
